@@ -1,0 +1,1 @@
+# guia-curso-python-ago25
